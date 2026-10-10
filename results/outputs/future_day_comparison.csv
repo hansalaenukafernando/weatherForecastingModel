@@ -1,0 +1,5 @@
+,MAE 1st hour,MAE hour 6,MAE hour 24,MAE whole day
+Recursive one-step LSTM,0.23,2.41,2.64,3.08
+Direct multi-step LSTM,0.53,1.03,2.74,2.23
+Persistence,0.3,2.45,2.61,3.1
+Climatology,4.13,3.99,4.31,4.55

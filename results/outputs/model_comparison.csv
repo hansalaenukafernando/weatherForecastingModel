@@ -1,0 +1,10 @@
+model,MAE,RMSE,R2,train_seconds,MAE_gain_vs_persistence_%
+LSTM v3,0.1286,0.1942,0.9994,200.3479,22.3852
+Ridge (baseline),0.1308,0.204,0.9994,0.1142,21.0849
+RF - tuned (GridSearchCV),0.1313,0.2059,0.9994,103.5622,20.7757
+LSTM v1,0.1319,0.1978,0.9994,40.0834,20.4146
+RF - baseline params,0.1331,0.2083,0.9993,86.1766,19.7032
+XGBoost - tuned (GridSearchCV),0.1493,0.2336,0.9992,4.0105,9.9308
+XGBoost - baseline params,0.1503,0.2347,0.9992,3.5632,9.2835
+Persistence (baseline),0.1657,0.2494,0.9991,,0.0
+LSTM v2,0.5386,0.7564,0.9913,41.7081,-224.9679

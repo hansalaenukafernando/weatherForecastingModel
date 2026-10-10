@@ -1,0 +1,13 @@
+params,mean_test_score,rank_test_score,CV_MAE
+"{'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 200}",-0.1481293961747359,1,0.1481293961747359
+"{'learning_rate': 0.05, 'max_depth': 8, 'n_estimators': 200}",-0.14813247965884904,2,0.14813247965884904
+"{'learning_rate': 0.05, 'max_depth': 6, 'n_estimators': 400}",-0.14823325412156416,3,0.14823325412156416
+"{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 200}",-0.14882352214133424,4,0.14882352214133424
+"{'learning_rate': 0.05, 'max_depth': 8, 'n_estimators': 400}",-0.1489201731366228,5,0.1489201731366228
+"{'learning_rate': 0.1, 'max_depth': 8, 'n_estimators': 200}",-0.14987469812992749,6,0.14987469812992749
+"{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 400}",-0.15021732944918903,7,0.15021732944918903
+"{'learning_rate': 0.05, 'max_depth': 4, 'n_estimators': 400}",-0.15106892026357271,8,0.15106892026357271
+"{'learning_rate': 0.1, 'max_depth': 8, 'n_estimators': 400}",-0.15147788756368125,9,0.15147788756368125
+"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 400}",-0.1520020337472133,10,0.1520020337472133
+"{'learning_rate': 0.1, 'max_depth': 4, 'n_estimators': 200}",-0.15335310488727322,11,0.15335310488727322
+"{'learning_rate': 0.05, 'max_depth': 4, 'n_estimators': 200}",-0.15369155361260348,12,0.15369155361260348

@@ -1,0 +1,17 @@
+params,mean_test_score,rank_test_score,CV_MAE
+"{'max_depth': 15, 'max_features': 1.0, 'min_samples_leaf': 5, 'n_estimators': 100}",-0.13514271220526788,1,0.13514271220526788
+"{'max_depth': 15, 'max_features': 1.0, 'min_samples_leaf': 5, 'n_estimators': 50}",-0.13596601871215222,2,0.13596601871215222
+"{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 5, 'n_estimators': 100}",-0.13706567440517822,3,0.13706567440517822
+"{'max_depth': 10, 'max_features': 1.0, 'min_samples_leaf': 5, 'n_estimators': 100}",-0.13790334989272324,4,0.13790334989272324
+"{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 5, 'n_estimators': 50}",-0.13805529147983162,5,0.13805529147983162
+"{'max_depth': 10, 'max_features': 1.0, 'min_samples_leaf': 5, 'n_estimators': 50}",-0.13848689313000737,6,0.13848689313000737
+"{'max_depth': 15, 'max_features': 1.0, 'min_samples_leaf': 20, 'n_estimators': 100}",-0.1386376448529083,7,0.1386376448529083
+"{'max_depth': 15, 'max_features': 1.0, 'min_samples_leaf': 20, 'n_estimators': 50}",-0.13900127178340696,8,0.13900127178340696
+"{'max_depth': 10, 'max_features': 1.0, 'min_samples_leaf': 20, 'n_estimators': 100}",-0.13987725745889223,9,0.13987725745889223
+"{'max_depth': 10, 'max_features': 1.0, 'min_samples_leaf': 20, 'n_estimators': 50}",-0.14021950740356795,10,0.14021950740356795
+"{'max_depth': 10, 'max_features': 0.5, 'min_samples_leaf': 5, 'n_estimators': 100}",-0.14261968427679242,11,0.14261968427679242
+"{'max_depth': 10, 'max_features': 0.5, 'min_samples_leaf': 5, 'n_estimators': 50}",-0.14340080793118906,12,0.14340080793118906
+"{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 20, 'n_estimators': 100}",-0.1448786433755763,13,0.1448786433755763
+"{'max_depth': 15, 'max_features': 0.5, 'min_samples_leaf': 20, 'n_estimators': 50}",-0.14551692933916183,14,0.14551692933916183
+"{'max_depth': 10, 'max_features': 0.5, 'min_samples_leaf': 20, 'n_estimators': 100}",-0.14743677279594125,15,0.14743677279594125
+"{'max_depth': 10, 'max_features': 0.5, 'min_samples_leaf': 20, 'n_estimators': 50}",-0.14809697587443293,16,0.14809697587443293
